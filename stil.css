@@ -2,6 +2,7 @@ baslik{
     display: block;
     font-weight: bold;
     margin-bottom: 24px;
+    font-size: 32px;
 }
 
 misra {
@@ -12,7 +13,6 @@ misra {
 dortluk {
     display: block;
     margin-bottom: 16px;
-    
 }
 
 sair {
