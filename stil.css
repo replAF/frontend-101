@@ -5,11 +5,14 @@ baslik{
 }
 
 misra {
-    display: block;
+    display: block
+    ;
 }
 
 dortluk {
     display: block;
+    margin-bottom: 16px;
+    
 }
 
 sair {
